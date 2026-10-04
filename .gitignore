@@ -1,0 +1,16 @@
+# catch
+__pycache__/
+*.pyc
+
+# log or output
+/result*/
+/log*/
+/model*/
+/temp/
+/output*/
+
+# 
+datasets/**
+!datasets/large_datasets_ap_part.tar.gz.aa
+!datasets/large_datasets_ap_part.tar.gz.ab
+!datasets/small_datasets_ap.tar.gz
